@@ -1,0 +1,6 @@
+text ram 
+
+the estimate price is not accurate.
+the accurate price will depend upon your travlled km.
+
+price = perkm * distance(both up and down).
